@@ -1,0 +1,9 @@
+{
+	"name": "grelkdevelopmentADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "de5364c9-1936-4774-9908-d918bac4eafd",
+		"tenantId": "eaf3e50f-853e-43f8-b7a3-e9bca4584bc4"
+	}
+}
